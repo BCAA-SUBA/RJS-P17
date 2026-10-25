@@ -6,7 +6,7 @@ import Cart from "./components/Cart";
 const products = [
   {
     id: 1,
-    name: "Laptop",
+    name: "Laptop", 
     price: 50000
   },
   {
